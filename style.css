@@ -1,0 +1,112 @@
+.tieu-de {
+    margin: auto;
+    display: flex;
+    width: 1000px;
+    height: 34px;
+}
+
+.nho {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 220px;
+    font-size: 20px;
+}
+
+.btn-g {
+    background-color: #2fa1b3;
+}
+
+.btn-1 {
+    margin-left: 260px;
+}
+
+.noi-dung {
+    list-style: none;
+    display: block;
+    align-items: center;
+}
+
+#hello {
+    text-decoration: none;
+}
+
+#hello:hover {
+    color: aqua;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+#so2 {
+    font-size: 30px;
+    max-width: 700px;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#so2:hover {
+    color: rgb(78, 145, 233);
+    background-color: aquamarine;
+}
+
+.chu-nho {
+    display: block;
+    color: #000;
+    display: flex;
+    overflow: hidden;
+    margin-left: 15px;
+}
+
+.chu-nho:hover {
+    color: #2fa1b3;
+}
+
+.anh1 {
+    display: block;
+    color: #000;
+    width: 210px;
+}
+
+.anh1:hover {
+    color: #2fa1b3;
+    text-decoration: none;
+}
+
+.anh1 img {
+    transition-duration: 0.3s;
+}
+
+.anh1 img:hover {
+    transform: scale(1.2);
+}
+
+.chinh1 {
+    margin-top: 25px;
+    display: flex;
+    color: #000;
+}
+
+.chinh1:hover {
+    color: #2fa1b3;
+}
+
+.chinh2 {
+    font-size: 20px;
+    display: flex;
+}
+
+.duoi-cung img {
+    transition-duration: 0.3s;
+}
+
+.duoi-cung img:hover {
+    transform: scale(1.2);
+}
+
+.chinh1 img {
+    transition-duration: 0.3s;
+}
+
+.chinh1 img:hover {
+    transform: scale(1.2);
+}
